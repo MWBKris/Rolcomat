@@ -69,13 +69,13 @@ textarea {
 .button {
 font-family: "Open sans", Helvetica, Arial, sans-serif;
 text-decoration: none;
-color: white;
+color: #AA2522;
 padding: 0px;
 font-weight: 300;
 display: block;
 margin: 0 auto;
-background-color: #a4c400;
-border: 2px solid #a4c400;
+background-color: #FFAE18;
+border: 2px solid #FFAE18;
 font-size: 16px;
 font-size: 1rem;
 line-height: 34px;
